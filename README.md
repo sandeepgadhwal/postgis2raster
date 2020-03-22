@@ -48,9 +48,11 @@ postgis2raster.analysis_polygon(
 ```
 ![Single band circle](https://raw.githubusercontent.com/sandeepgadhwal/postgis2raster/master/images/single_band_polygon.png)
 
+#
 
+## Multi Band Polygon
 ```python
-postgis2raster.analysis_circle(
+postgis2raster.analysis_polygon(
     table='mytable',
     output_raster='myimage.tif',
     query_x=16.55268272,

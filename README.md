@@ -14,7 +14,7 @@ postgis2raster.analysis_circle(
     cell_size=30
 )
 ```
-![Single band circle](https://raw.githubusercontent.com/sandeepgadhwal/postgis2raster/images/single_band_circle.png)
+![Single band circle](https://raw.githubusercontent.com/sandeepgadhwal/postgis2raster/master/images/single_band_circle.png)
 
 #
 
@@ -30,7 +30,7 @@ postgis2raster.analysis_circle(
     classes_to_bands=True
 )
 ```
-![Multi band circle](https://raw.githubusercontent.com/sandeepgadhwal/postgis2raster/images/multi_band_circle.png)
+![Multi band circle](https://raw.githubusercontent.com/sandeepgadhwal/postgis2raster/master/images/multi_band_circle.png)
 
 #
 
@@ -46,7 +46,7 @@ postgis2raster.analysis_polygon(
     cell_size=30
 )
 ```
-![Single band circle](https://raw.githubusercontent.com/sandeepgadhwal/postgis2raster/images/single_band_polygon.png)
+![Single band circle](https://raw.githubusercontent.com/sandeepgadhwal/postgis2raster/master/images/single_band_polygon.png)
 
 
 ```python
@@ -61,5 +61,5 @@ postgis2raster.analysis_circle(
     classes_to_bands=True
 )
 ```
-![Multi band circle](https://raw.githubusercontent.com/sandeepgadhwal/postgis2raster/images/multi_band_polygon.png)
+![Multi band circle](https://raw.githubusercontent.com/sandeepgadhwal/postgis2raster/master/images/multi_band_polygon.png)
 
